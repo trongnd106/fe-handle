@@ -1,0 +1,12 @@
+__pycache__
+.vscode
+blog
+cpp
+html
+java
+javascript
+node_modules
+python
+src
+package-lock.json
+package.json
